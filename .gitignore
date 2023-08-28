@@ -1,0 +1,48 @@
+# Dependency directories
+node_modules/
+
+# Logs
+logs
+*.log
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.iml
+
+# Compiled output
+dist/
+build/
+
+# Environment variables and secrets
+.env
+.env.local
+.env.*.local
+
+# Operating system and IDE files
+.DS_Store
+Thumbs.db
+
+# Build cache
+.npm/
+
+# Package lock files
+package-lock.json
+yarn.lock
+
+# Testing artifacts
+coverage/
+
+# Cache and temporary files
+*.swp
+*.swo
+*.cache
+*.gitignore~
+
+# User-specific files
+.npmrc
+.npmignore
+yarn-error.log
+
+# Application specific files
+.env.example
